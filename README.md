@@ -4,7 +4,7 @@ Computer Science student at the Silesian University of Technology
 Passionate about software development and modern technologies  
 ---
 
-##About Me
+##About Me##
 
 I'm a 22-year-old third-year Computer Science student with a strong interest in creating applications – both desktop and web.
 
@@ -12,7 +12,7 @@ I enjoy learning new technologies and applying my knowledge in practical project
 
 ---
 
-##Technologies & Tools
+##Technologies & Tools##
 
 **Languages:** C#, Java, C++, Python  
 **Frameworks:** ASP.NET Core, Entity Framework, WinForms, Java Swing, Bootstrap  
