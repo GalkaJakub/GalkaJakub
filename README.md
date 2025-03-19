@@ -23,6 +23,9 @@ Technologies & Tools
 **Languages:** English (B2 level)
 
 ---
+Currently working on
+
+**[Study Dashboard - Web app for managing academic deadlines, grades, and progress. ](https://github.com/GalkaJakub/StudyDashboardWeb)**  
 
 ## 📫 Contact Me
 
