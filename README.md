@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jakub Gałka
 
-<!--
-**GalkaJakub/GalkaJakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the Silesian University of Technology  
+Passionate about software development and modern technologies  
+---
 
-Here are some ideas to get you started:
+##About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 22-year-old third-year Computer Science student with a strong interest in creating applications – both desktop and web.
+
+I enjoy learning new technologies and applying my knowledge in practical projects. I'm independent, highly motivated, and always eager to improve.
+
+---
+
+##Technologies & Tools
+
+**Languages:** C#, Java, C++, Python  
+**Frameworks:** ASP.NET Core, Entity Framework, WinForms, Java Swing, Bootstrap  
+**Web:** HTML, CSS, JavaScript  
+**Databases:** MSSQL, MySQL, NoSQL  
+**Version Control:** Git  
+**IDEs:** Visual Studio, PyCharm, NetBeans  
+**Languages:** English (B2 level)
+
+---
+
+## 📫 Contact Me
+
+- Email: kubabb2002@gmail.com  
+
+---
