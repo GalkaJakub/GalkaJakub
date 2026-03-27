@@ -15,13 +15,21 @@ I enjoy learning new technologies and applying my knowledge in practical project
 Technologies & Tools
 
 **Languages:** C#, Java, C++, Python  
+
 **Frameworks:** ASP.NET Core, Java spring boot, WinForms
+
 **Web:** HTML, CSS, JavaScript, TypeScript
+
 **Databases:** MSSQL, MySQL, NoSQL  
+
 **Version Control:** Git  
+
 **IDEs:** Visual Studio, PyCharm, NetBeans  
+
 **Languages:** English (B2 level)
+
 ---
+
 ## Contact Me
 
 - Email: kubabb2002@gmail.com  
